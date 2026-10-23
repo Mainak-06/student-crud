@@ -31,10 +31,10 @@ requirements.txt
 
 ## Installation
 ```bash
-git clone <your-repo-url>
-cd students-crud
+git clone https://github.com/Mainak-06/student-crud.git
+cd student-crud
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+venv\Scripts\activate        # Mac/Linux: source venv/bin/activate
 pip install -r requirements.txt
 ```
 
